@@ -1,4 +1,6 @@
-# Portfolio Next.js (version en cours de développement)
+# Portfolio Next.js (première version, abandonnée)
+
+> **Dépôt archivé.** Ce prototype n'a pas été terminé : seules la page d'accueil et la navigation sont réalisées. Il a été remplacé par mon portfolio actuel, en ligne sur https://eliedvp.vercel.app. Les dépendances ne sont plus maintenues (Next.js 15.5.6 fait l'objet d'avis de sécurité) : ne pas déployer ce code en l'état.
 
 Première version d'un portfolio personnel de développeur, construite avec Next.js (App Router), Tailwind CSS et Framer Motion.
 
